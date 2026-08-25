@@ -104,6 +104,14 @@ Mobile & Software Engineer focused on crafting performant cross-platform applica
 
 ---
 
+### 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ericktrn/ericktrn/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+---
+
 <div align="center">
   <p><i>Crafted with precision & passion by <b>Erick Tarantino</b></i></p>
 </div>
